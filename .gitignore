@@ -104,3 +104,4 @@ venv.bak/
 .mypy_cache/
 Drivers/*.exe
 Debug/*.png
+Downloads/*
